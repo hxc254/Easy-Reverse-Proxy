@@ -5,7 +5,7 @@ export let PORT = 377; // 端口
 export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [{
-        domain: "easy-reverse-proxy-q7v10y8zk-logan-huangs-projects.vercel.app/",
+        domain: "www.example.com",
         url: "www.google.com",
         enable: true
 }];
